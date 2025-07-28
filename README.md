@@ -42,7 +42,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ### 📊 Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mosalih7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mosalih7&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ### 📈 Contribution Graph
 
