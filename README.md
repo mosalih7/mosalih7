@@ -28,8 +28,6 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ---
 
----
-
 **🌟 GitHub Stats**
 
 <a href="http://www.github.com/mosalih7">
@@ -38,11 +36,6 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ---
 
----
-
-### 📊 Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mosalih7)](https://git.io/streak-stats)
 
 ### 📈 Contribution Graph
 
