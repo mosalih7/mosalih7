@@ -10,78 +10,34 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ---
 
+
 ### 💻 Skills
 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"
-width=16 height=16 />  
-  JavaScript 
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"
-width=16 height=16 />  
-  TypeScript
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/git/git.png"
-width=16 height=16 />  
-  Git 
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png"
-width=16 height=16 />  
-  React 
-</p>
-<p>
-<img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4"
-width=16 height=16 />  
-  Next JS 
-</p>
-<p>
-  <img src="https://avatars.githubusercontent.com/u/856813?s=40&v=4"
-width=16 height=16 />  
-  Stripe 
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/tailwind/tailwind.png"
-width=16 height=16 />  
-  Tailwind CSS 
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redux/redux.png"
-width=16 height=16 />  
-  Redux Toolkit 
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bootstrap/bootstrap.png"
-width=16 height=16 />  
-  Bootstrap 
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"
-width=16 height=16 />  
-  Node JS 
-</p>
-<p>
-  <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4"
-width=16 height=16 />  
-  Express 
-</p>
-<p>
-  <img src="https://avatars.githubusercontent.com/u/45120?s=40&v=4"
-width=16 height=16 />  
-  MongoDB 
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/supabase/supabase.png"
-width=16 height=16 />  
-  Supabase 
-</p>
-<p>
-  <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4"
-width=16 height=16 />  
-  Socket.io 
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" width=16 height=16 /> JavaScript<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png" width=16 height=16 /> TypeScript<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" width=16 height=16 /> React<br>
+      <img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" width=16 height=16 /> Next JS<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redux/redux.png" width=16 height=16 /> Redux Toolkit<br>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png" width=16 height=16 /> Node JS<br>
+      <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" width=16 height=16 /> Express<br>
+      <img src="https://avatars.githubusercontent.com/u/45120?s=40&v=4" width=16 height=16 /> MongoDB<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/supabase/supabase.png" width=16 height=16 /> Supabase<br>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/git/git.png" width=16 height=16 /> Git<br>
+      <img src="https://avatars.githubusercontent.com/u/856813?s=40&v=4" width=16 height=16 /> Stripe<br>
+      <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" width=16 height=16 /> Socket.io<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/tailwind/tailwind.png" width=16 height=16 /> Tailwind CSS<br>
+      <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bootstrap/bootstrap.png" width=16 height=16 /> Bootstrap<br>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
