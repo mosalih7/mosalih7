@@ -36,6 +36,9 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ---
 
+[![mosalih7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📈 Contribution Graph
 
