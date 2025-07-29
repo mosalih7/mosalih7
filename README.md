@@ -12,7 +12,8 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ### 💻 Skills
 
-- JavaScript
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"/> JavaScript
+
 - TypeScript
 - Git
 - React
@@ -29,12 +30,6 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 ---
 
 **🌟 GitHub Stats**
-
-<a href="http://www.github.com/mosalih7">
-  <img src="https:/github-readme-stats-rosy-ten-47.vercel.app/api?username=mosalih7&show_icons=true&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true" alt="mosalih's GitHub stats" />
-</a>
-
----
 
 [![mosalih7's GitHub stats](https://github-readme-stats-rosy-ten-47.vercel.app/api?username=mosalih7&show_icons=true&theme=radical&bg_color=1b532d&title_color=f5cb18)](https://github.com/anuraghazra/github-readme-stats)
 
