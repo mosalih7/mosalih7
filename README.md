@@ -31,7 +31,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 **🌟 GitHub Stats**
 
 <a href="http://www.github.com/mosalih7">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosalih7&show_icons=true&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true" alt="mosalih's GitHub stats" />
+  <img src="https:/github-readme-stats-rosy-ten-47.vercel.app/api?username=mosalih7&show_icons=true&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true" alt="mosalih's GitHub stats" />
 </a>
 
 ---
