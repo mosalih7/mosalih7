@@ -12,20 +12,77 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ### 💻 Skills
 
-<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"/> JavaScript
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"
+width=16 height=16 />  
+  JavaScript 
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"
+width=16 height=16 />  
+  TypeScript
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/git/git.png"
+width=16 height=16 />  
+  Git 
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png"
+width=16 height=16 />  
+  React 
+</p>
+<p>
+<img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4"
+width=16 height=16 />  
+  Next JS 
+</p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/856813?s=40&v=4"
+width=16 height=16 />  
+  Stripe 
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/tailwind/tailwind.png"
+width=16 height=16 />  
+  Tailwind CSS 
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redux/redux.png"
+width=16 height=16 />  
+  Redux Toolkit 
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bootstrap/bootstrap.png"
+width=16 height=16 />  
+  Bootstrap 
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"
+width=16 height=16 />  
+  Node JS 
+</p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4"
+width=16 height=16 />  
+  Express 
+</p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/45120?s=40&v=4"
+width=16 height=16 />  
+  MongoDB 
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/supabase/supabase.png"
+width=16 height=16 />  
+  Supabase 
+</p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4"
+width=16 height=16 />  
+  Socket.io 
+</p>
 
-- TypeScript
-- Git
-- React
-- Next.js
-- Tailwind CSS
-- Redux Toolkit
-- Bootstrap
-- Node.js
-- Express
-- MongoDB
-- Supabase
-- Socket.io
 
 ---
 
