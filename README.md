@@ -36,7 +36,7 @@ I'm a driven and ambitious software engineer known for my hands-on project exper
 
 ---
 
-[![mosalih7's GitHub stats](https://github-readme-stats-rosy-ten-47.vercel.app/api?username=mosalih7)](https://github.com/anuraghazra/github-readme-stats)
+[![mosalih7's GitHub stats](https://github-readme-stats-rosy-ten-47.vercel.app/api?username=mosalih7&show_icons=true&theme=radical&bg_color=1b532d&title_color=f5cb18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
